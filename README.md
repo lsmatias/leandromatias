@@ -34,10 +34,10 @@
  
   <a href="https://www.youtube.com/user/Lsmatias1/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lsmatias/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://a.paddle.com/v2/click/16413/119403?link=1227">
+  <a href="https://almcom.wordpress.com/">
       <img src="https://img.shields.io/badge/DevOps Blog%20by-Leandro Matias%20%20%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge">
     </a>
 
-![Snake animation](https://github.com/lsmatias/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/lsmatias/leandromatias/blob/output/github-contribution-grid-snake.svg)
  
 </div>
