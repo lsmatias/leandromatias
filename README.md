@@ -22,6 +22,7 @@
   <img align="center" alt="matias-git" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="matias-git" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg">
   <img align="right" alt="matias-pic" height="150" style="border-radius:50px;" src="https://img.icons8.com/dusk/160/000000/r2-d2.png">
+  <img align="center" alt="matias-git" height="150" width="150"src="https://archivos.territorio.la/uploads/602ed40261526.png">
  </div>
   
   ##
